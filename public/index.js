@@ -11,8 +11,8 @@ var students = [
     Career: "IDYGS"
   },
   {
-    lname: "Luis",
-    name: "Padilla",
+    lname: "Padilla",
+    name: "Luis",
     age: 21,
     birthday: {
       year: 2000,
@@ -22,8 +22,8 @@ var students = [
     Career: "IDYGS"
   },
   {
-    lname: "Jose",
-    name: "Padron",
+    lname: "Padron",
+    name: "Jose",
     age: 21,
     birthday: {
       year: 2000,
