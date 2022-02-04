@@ -44,13 +44,24 @@ var students = [
     Career: "IDYGS"
   },
   {
-    lname: "Lopez",
-    name: "Carlos",
-    age: 21,
+    lname: "Orellan",
+    name: "Rossy",
+    age: 22,
+    birthday: {
+      year: 2000,
+      month: "January",
+      day: 26
+    },
+    Career: "IDYGS"
+  },
+  {
+    lname: "Gutierrez",
+    name: "Wendy",
+    age: 22,
     birthday: {
       year: 2000,
       month: "November",
-      day: 02
+      day: 16
     },
     Career: "IDYGS"
   }
